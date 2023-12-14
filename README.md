@@ -43,10 +43,11 @@ Figure: Loss and accuracy graphs across epochs. Given a lack of access to GPUs, 
 **Description:** Used an ultrasonic sensor on an RPi to detect objects around the user. When an object was found, we convolved audio with HRTF data to let the user know where the object was located. The purpose of this project was to aid the visually impaired through sound.<br>
 
 ![](./images/8.png) <br>
+Figure: Diagram demonstrating the purpose of the project. <br>
+
 ![](./images/9.png) <br>
+Figure: Assembled product.
+
 ![](./images/10.png) <br>
-Figure: Diagram demonstrating the purpose of the project (left) and assembled product (right).
-
-
 Figure: System diagram with the components of the project.
 
